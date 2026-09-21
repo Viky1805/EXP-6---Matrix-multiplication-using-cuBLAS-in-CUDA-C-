@@ -1,5 +1,5 @@
 # EXP-6---Matrix-multiplication-using-cuBLAS-in-CUDA-C-
-<h3>ENTER YOUR NAME: Vignesh S Y</h3>
+<h3>ENTER YOUR NAME: Vignesh S </h3>
 <h3>ENTER YOUR REGISTER NO: 212224110061</h3>
 <h3>EX. NO: 06</h3>
 <h3>DATE: 1/09/2026</h3>
