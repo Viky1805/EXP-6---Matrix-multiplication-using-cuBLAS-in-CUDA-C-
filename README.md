@@ -189,7 +189,8 @@ with open("matrix_multiplication.cu", "w") as file:
 ```
 
 # OUTPUT:
-<img width="750" height="455" alt="image" src="https://github.com/user-attachments/assets/a4db8ee1-9cdd-4cb7-b657-a21551629ff5" />
+
+<img width="1828" height="452" alt="image" src="https://github.com/user-attachments/assets/9cf48fd1-95fe-4e5a-b16c-1387c14bdb86" />
 
 
 # RESULT:
